@@ -413,3 +413,5 @@ void analisa_vencedor(jogadores x[], int n){
 }
 
 //FAZER O TABULEIRO
+
+// Gustavo esteve aqui

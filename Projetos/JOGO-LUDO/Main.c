@@ -411,7 +411,12 @@ void analisa_vencedor(jogadores x[], int n){
     }
     x[n].percurso_completo = peoes_finalizados;
 }
+//<<<<<<< main
 
 //FAZER O TABULEIRO
 
 // Gustavo esteve aqui
+//=======
+//Código bem estruturado. Gostei!!!
+//FAZER O TABULEIRO
+//>>>>>>> main

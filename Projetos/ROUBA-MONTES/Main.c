@@ -538,3 +538,6 @@ int mostra_monte(deck *p){
 
     return 1;
 }
+
+
+//Muito bom !!!

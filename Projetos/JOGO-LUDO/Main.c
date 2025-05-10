@@ -415,4 +415,4 @@ void analisa_vencedor(jogadores x[], int n){
 
 // Gustavo esteve aqui
 //Código bem estruturado. Gostei!!! (Marco Tulio)
-
+//Muito bom !!! (Raphael)
